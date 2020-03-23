@@ -1,0 +1,61 @@
+baseURL: https://psycorona.org/
+languageCode: en-us
+title: Psychology Corona
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy 
+  description: 
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: covid19-logo.png
+    link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Psychology Corona Study
+    # Hero subtitle (optional)
+    subtitle: Global study of effects of COVID-19
+    # Button text
+    buttontext: Take survey
+    # Where the main hero button links to
+    buttonlink: "https://rug.eu.qualtrics.com/jfe/form/SV_8wUo0naXXVAlB2t?fbclid=IwAR2K5PTfKXmekrvDaiTkH8CJ0CC27TwP4LU0pIBA5_TbWYtiGtc7HHz4xAE"
+    # Hero image (from static/images/___)
+    image: coronavirus.png
+    # Footer logos (from static/images/logos/clients/___.svg)
+    clientlogos:
+    - university-nyu
+    - university-groningen
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: More information
+    url: /
+  - title: Publications
+    url: /
+  - title: Data
+    url: /
+  section5: true
+  footer:
+    # Logo (from /images/logos/___)
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/simabasel/psycorona
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://www.facebook.com/Covid-19-Research-Study-110600253911208/
+      icon: facebook
