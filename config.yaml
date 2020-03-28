@@ -18,8 +18,8 @@ params:
   # Used as meta data; describe your site to make Google Bots happy 
   description: Take this 20-minute survey
   navbarlogo:
-  # Logo (from static/images/logos/___)
-    image: covid19-logo.png
+  # Logo (from static/images/___)
+    image: coronavirus.png
     link: /
   font:
     name: "Open Sans"
@@ -42,11 +42,13 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: More information
-    url: /
-  - title: Publications
-    url: /
+    url: /more-information/
+  - title: Press
+    url: /press/
   - title: Data
-    url: /
+    url: /data/
+  - title: FAQ
+    url: /faq/
   section5: true
   footer:
     # Logo (from /images/logos/___)
