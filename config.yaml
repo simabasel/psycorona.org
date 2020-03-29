@@ -41,8 +41,8 @@ params:
     - university-groningen
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: More information
-    url: /more-information/
+  - title: About This Study
+    url: /about/
   - title: Press
     url: /press/
   - title: Data
