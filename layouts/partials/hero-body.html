@@ -1,9 +1,18 @@
-{{- $hero       := .Site.Params.hero }}
-{{- $title      := index $hero "title" }}
-{{- $subtitle   := index $hero "subtitle" }}
-{{- $buttonText := index $hero "buttontext" }}
-{{- $buttonLink := index $hero "buttonlink" }}
-{{- $image      := index $hero "image" }}
+<!--
+  {{- $hero       := .Site.Params.hero }}
+  {{- $title      := index $hero "title" }}
+  {{- $subtitle   := index $hero "subtitle" }}
+  {{- $buttonText := index $hero "buttontext" }}
+  {{- $buttonLink := index $hero "buttonlink" }}
+  {{- $image      := index $hero "image" }}
+-->
+
+  {{- $title      := .Site.Params.heroTitle }}
+  {{- $subtitle   := .Site.Params.heroSubtitle }}
+  {{- $buttonText := .Site.Params.heroButtontext }}
+  {{- $buttonLink := .Site.Params.heroButtonlink }}
+  {{- $image      := .Site.Params.heroImage }}
+
 <div class="hero-body">
   <div class="container">
     <div class="columns is-vcentered">

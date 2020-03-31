@@ -1,8 +1,12 @@
+{{- $ContactInvitation1         := .Site.Params.contactInvitation1 }}
+{{- $ContactInvitation2         := .Site.Params.contactInvitation2 }}
+{{- $ContactButton         := .Site.Params.contactButton }}
+
 <section class="section section-light-grey is-medium">
     <div class="container">
       <div class="title-wrapper has-text-centered">
-        <h2 class="title is-2 is-spaced">Reach out to us</h2>
-        <h3 class="subtitle is-5 is-muted">We'd love to hear from you</h3>
+        <h2 class="title is-2 is-spaced">{{ $ContactInvitation1 }}</h2>
+        <h3 class="subtitle is-5 is-muted">{{ $ContactInvitation2 }}</h3>
         <div class="divider is-centered"></div>
       </div>
   
@@ -30,7 +34,7 @@
                 </div>
                 -->
                 <div class="form-footer has-text-centered mt-10">
-                  <input type="submit" name="submit" value="Contact Us" class="button cta is-large primary-btn raised is-clear" />
+                  <input type="submit" name="submit" value="{{ $ContactButton }}" class="button cta is-large primary-btn raised is-clear" />
                 </div>
               </div>
             </form>
