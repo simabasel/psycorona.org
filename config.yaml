@@ -49,8 +49,8 @@ params:
     url: /data/
   - title: FAQ
     url: /faq/
-  - title: Contributions
-    url: /contributions/
+  - title: Team
+    url: /team/
   section5: true
   footer:
     # Logo (from /images/logos/___)
