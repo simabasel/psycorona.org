@@ -14,7 +14,7 @@ markup:
 
 params:
   # Translation key changes word for Navbar item for translations
-  translationKey: Translations
+  translationKey: Language
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
@@ -56,6 +56,8 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
+  - title: Home
+    url: /
   - title: About This Study
     url: /about/
   - title: Press
