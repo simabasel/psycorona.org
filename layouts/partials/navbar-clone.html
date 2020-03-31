@@ -9,7 +9,7 @@
   <div class="container">
     <div class="navbar-brand">
       {{- if $navbarLogo}}
-      <a class="navbar-item" href="{{ $navbarLogo.link }}">
+      <a class="navbar-item" href="{{ relLangURL "/" }}">
         <img src="{{ printf "/images/%s" $navbarLogo.image | relURL }}" alt="" width="50" height="50">
       </a>
       {{- end}}
