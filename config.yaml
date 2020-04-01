@@ -37,7 +37,7 @@ params:
     # Button text
     #buttontext: Take 20-minute survey
     # Where the main hero button links to
-    #buttonlink: "https://rug.eu.qualtrics.com/jfe/form/SV_8wUo0naXXVAlB2t?fbclid=IwAR2K5PTfKXmekrvDaiTkH8CJ0CC27TwP4LU0pIBA5_TbWYtiGtc7HHz4xAE"
+    #buttonlink: "https://nyu.qualtrics.com/jfe/form/SV_6svo6J4NF7wE6tD"
     # Hero image (from static/images/___)
     #image: coronavirus.png
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -48,7 +48,7 @@ params:
   heroTitle: Psychology Corona Study
   heroSubtitle: Global study of effects of COVID-19
   heroButtontext: Take 20-minute survey
-  heroButtonlink: "https://rug.eu.qualtrics.com/jfe/form/SV_8wUo0naXXVAlB2t?fbclid=IwAR2K5PTfKXmekrvDaiTkH8CJ0CC27TwP4LU0pIBA5_TbWYtiGtc7HHz4xAE"
+  heroButtonlink: "https://nyu.qualtrics.com/jfe/form/SV_6svo6J4NF7wE6tD"
   heroImage: coronavirus.png
   heroClientlogos:
     - university-nyu
