@@ -2,7 +2,7 @@ baseURL: https://psycorona.org/
 languageCode: en-us
 title: Psychology Corona
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: UA-162118426-1 # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
 - taxonomy
@@ -50,7 +50,8 @@ params:
   heroButtonlink: "https://nyu.qualtrics.com/jfe/form/SV_6svo6J4NF7wE6tD"
   heroImage: coronavirus.png
   heroClientlogos:
-    - university-nyu
+    - logo: university-nyu
+      url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/jocelyn-belanger.html
     
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
