@@ -12,8 +12,8 @@
       <ul>
         {{- range $clientLogos }}
         <li>
-          <a>
-            <img class="partner-logo" src="{{ printf "/images/%s.png" . | relURL }}">
+          <a href="{{.url}}">
+            <img class="partner-logo" src="{{ printf "/images/%s.png" .logo | relURL }}">
           </a>
         </li>
         {{- end }}

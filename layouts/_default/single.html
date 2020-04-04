@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "meta.html" . }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "css.html" . }}
+  </head>
+  <body>
+      <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TBX7QV6"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZ9NNJR"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Preloader -->
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+
+    {{ block "main" . }}
+
+    {{ partial "single/single.html" . }}
+
+    {{ if .Params.include_footer }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+    {{ if .Params.sidebar }}
+    {{ partial "single/sidebar.html" . }}
+    {{ end }}
+
+    {{ end }}
+
+    {{ partial "javascript.html" . }}
+  </body>
+</html>

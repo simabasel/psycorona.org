@@ -2,7 +2,7 @@ baseURL: https://psycorona.org/
 languageCode: en-us
 title: Psychology Corona
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: UA-162118426-1 # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
 - taxonomy
@@ -37,23 +37,22 @@ params:
     # Button text
     #buttontext: Take 20-minute survey
     # Where the main hero button links to
-    #buttonlink: "https://rug.eu.qualtrics.com/jfe/form/SV_8wUo0naXXVAlB2t?fbclid=IwAR2K5PTfKXmekrvDaiTkH8CJ0CC27TwP4LU0pIBA5_TbWYtiGtc7HHz4xAE"
+    #buttonlink: "https://nyu.qualtrics.com/jfe/form/SV_6svo6J4NF7wE6tD"
     # Hero image (from static/images/___)
     #image: coronavirus.png
     # Footer logos (from static/images/logos/clients/___.svg)
     #clientlogos:
     #- university-nyu
-    #- university-groningen
 
   heroTitle: Psychology Corona Study
   heroSubtitle: Global study of effects of COVID-19
   heroButtontext: Take 20-minute survey
-  heroButtonlink: "https://rug.eu.qualtrics.com/jfe/form/SV_8wUo0naXXVAlB2t?fbclid=IwAR2K5PTfKXmekrvDaiTkH8CJ0CC27TwP4LU0pIBA5_TbWYtiGtc7HHz4xAE"
+  heroButtonlink: "https://nyu.qualtrics.com/jfe/form/SV_6svo6J4NF7wE6tD"
   heroImage: coronavirus.png
   heroClientlogos:
-    - university-nyu
-    - university-groningen
-
+    - logo: university-nyu
+      url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/jocelyn-belanger.html
+    
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Home
@@ -87,7 +86,7 @@ params:
     #- link: https://github.com/simabasel/psycorona
       # Icons are from Font Awesome
     #  icon: github
-    #- link: https://www.facebook.com/Covid-19-Research-Study-110600253911208/
+    #- link: https://www.facebook.com/PsyCorona-100726584925027
     #  icon: facebook
 
   footerSocialmediatitle: Follow Us
@@ -95,7 +94,7 @@ params:
     - link: https://github.com/simabasel/psycorona
       # Icons are from Font Awesome
       icon: github
-    - link: https://www.facebook.com/Covid-19-Research-Study-110600253911208/
+    - link: https://www.facebook.com/PsyCorona-100726584925027
       icon: facebook
   
 #Languages. Since I redefined each of the keys for footer & hero to be
