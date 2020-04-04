@@ -114,7 +114,7 @@ languages:
     weight: 2
     description: An der 20 minütigen Studie teilnehmen
     title:  Psychologie Corona Studie
-    translationKey: Übersetzungen
+    translationKey: Sprache
     navbar:
     - title: Home
       url: /
