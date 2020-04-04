@@ -116,6 +116,8 @@ languages:
     title:  Psychologie Corona Studie
     translationKey: Übersetzungen
     navbar:
+    - title: Home
+      url: /
     - title: Über diese Studie
       url: /über-die-studie/
     - title: Presse
@@ -127,9 +129,9 @@ languages:
     - title: Team
       url: /team/
     heroTitle: Psychologie Corona Studie
-    heroSubtitle: Globale Studie über die Auswirkungen von Covid-19
+    heroSubtitle: Globale Studie über die Effekte von Covid-19
     heroButtontext: Zur Studie
     contactInvitation1: Kontaktieren Sie Uns
     contactInvitation2: Wir freuen uns von Ihnen zu hören
     contactButton: Kontakt aufnehmen
-    footerSocialmediatitle: Folge uns
+    footerSocialmediatitle: Folgen Sie Uns

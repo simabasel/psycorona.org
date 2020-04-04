@@ -3,7 +3,6 @@ title: Über diese Studie
 slug: über-die-studie
 ---
 
-Psychologie und Kultur könnten die Verbreitung des Virus beeinflussen; Die Menschliche Psychologie könnte sich aufgrund des Virus verändern. Unser Ziel ist es Daten Forscher/innen und Verhaltensforscher/innen zu mobilisieren, um Interventionen zu generieren die die Verbreitung des Virus verlangsamen könnten, um den möglichen Schaden für die Gesellschaft zu minimieren. Alle Wissenschaftler/innen die an diesem Projekt beteiligt sind arbeiten größtenteils als Freiwillige und nutzen bestehende Strukturen und Ressourcen.
+Sowohl die Psychologie als auch Kultur besitzen die Möglichkeit, die Verbreitung des Virus zu beeinflussen. Im Umkehrschluss könnte sich auch die menschliche Psychologie aufgrund des Virus verändern. Ziel dieses Projektes ist es, Daten-Wissenschaftler/innen und Verhaltensforscher/innen zur Generierung neuer Interventionen zu mobilisieren, welche die Verbreitung des Virus verlangsamen könnten, um den möglichen Schaden für die Gesellschaft zu minimieren. Die Wissenschaftler/innen, die an diesem Projekt beteiligt sind, arbeiten größtenteils freiwillig und ehrenamtlich und nutzen bestehende Strukturen und Ressourcen.
 
-Neben den Mitarbeiter/innen der beiden Universitäten arbeiten Wissenschaftler/innen aus der ganzen Welt gemeinsam an diesem Projekt. Sie alle teilen die Ziele und Werte dieses Unterfangens.
-
+Darüber hinaus hat dieses Projekt stetig an Größe gewonnen und Wissenschaftler/innen aus der ganzen Welt arbeiten nun zusammen in autonomen Arbeitsgruppen, die ihrerseits jeweils die Ziele und Werte dieses Unterfangens teilen. Um globale Teilnahme an diesem Projekt zu ermöglichen, wird der Fragebogen dieser Studie tagtäglich in weitere Sprachen übersetzt.
