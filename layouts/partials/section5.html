@@ -1,6 +1,7 @@
 {{- $ContactInvitation1         := .Site.Params.contactInvitation1 }}
 {{- $ContactInvitation2         := .Site.Params.contactInvitation2 }}
 {{- $ContactButton         := .Site.Params.contactButton }}
+{{- $ContactEmail               := .Site.Params.contactEmail }}
 
 <section class="section section-light-grey is-medium">
     <div class="container">
@@ -13,12 +14,7 @@
       <div class="content-wrapper">
         <div class="columns">
           <div class="column is-6 is-offset-3">
-            <form action="mailto:psycorona@gmail.com?[PSYCORONA]+Feedback" method="get" enctype="text/plain">
               <div class="columns is-multiline">
-
-                <div class="column is-12">
-                    <input class="input is-medium" type="hidden" name="subject" placeholder="[PSYCORONA] Feedback">
-                  </div>
                   <!--
                 <div class="column is-6">
                   <input class="input is-medium" type="text" name="name" placeholder="Enter your name">
@@ -34,10 +30,9 @@
                 </div>
                 -->
                 <div class="form-footer has-text-centered mt-10">
-                  <input type="submit" name="submit" value="{{ $ContactButton }}" class="button cta is-large primary-btn raised is-clear" />
+                  <div class="button cta is-large primary-btn raised is-clear">{{$ContactEmail}}</div>
                 </div>
               </div>
-            </form>
           </div>
         </div>
       </div>
