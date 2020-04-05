@@ -2,4 +2,4 @@
 title: Confirmation
 ---
 
-Thank you for taking our survey! 
+We have received your response. Thank you for taking our survey! 
