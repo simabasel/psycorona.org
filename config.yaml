@@ -52,6 +52,9 @@ params:
   heroClientlogos:
     - logo: university-nyu
       url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/jocelyn-belanger.html
+    - logo: university-groningen
+      url: https://www.rug.nl/staff/n.p.leander/research
+
     
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
