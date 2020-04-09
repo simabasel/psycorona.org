@@ -76,7 +76,7 @@ params:
   contactInvitation1: Reach out to us
   contactInvitation2: We'd love to hear from you
   contactButton: Contact Us
-  contactEmail: psycorona@gmail.com
+  contactEmail: psycorona@rug.nl 
 
   footer:
     #Some arbitray key is necessary for underlying template to render
