@@ -18,7 +18,7 @@ You can participate by clicking on the survey link on the front-page of this web
 
 # I want to end my participation, how do I do this?
 
-You can stop the survey at any moment by closing your browser window. Answers that you might have already provided will then not be used in our data-analysis. 
+You can stop the survey at any moment by closing your browser window. Answers that you might have already provided will be deleted from the dataset. 
 
 # How is my data stored?
 
