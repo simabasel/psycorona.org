@@ -52,5 +52,5 @@ Data handling: The data managers at the University of Groningen are responsible 
 Utrecht University is responsible for matching region information (ZIP codes) to local coronavirus spread information. This means that these data are shared with the researchers in Utrecht. However, only at the University of Groningen do the region information and their corresponding local virus spread information get merged to your survey responses. After that, ZIP codes are removed to ensure pseudonymization.
 Rights for data protection for participants: Any questions related to questions about your data protection rights can be addressed to the Data Protection Officer of the University of Groningen. Feel free to reach out to privacy@rug.nl or the data protection officer A.R. Deenen a.r.deenen@rug.nl.
 
-# 7. Final words:
+## 6. Final words:
 By reading the above we hope to have given you an understanding of how we are trying to do our utmost to keep your responses as safe and secure as possible. We would also like to let you know that we think consent is a relation that we build over time. We will, therefore, periodically further develop information on collaboration and try to make the best decisions to further ensure your privacy rights. Thank you for your trust and support during this research.
