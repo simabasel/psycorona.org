@@ -46,7 +46,7 @@ The survey asks respondents to indicate their gender, general age range, and gen
 
 # Why are there questions about religious beliefs?
 
-Some people believe that spirtual deities are guides, others believe that dieties control events in their lives. This may affect people's sense of safety and thus their pandemic behavior. 
+Some people believe that spiritual deities are guides, others believe that dieties control events in their lives. This may affect people's sense of safety and thus their pandemic behavior. 
 
 # Why are there question about political opinions?
 
