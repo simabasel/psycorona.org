@@ -7,7 +7,9 @@ The table below includes a list of all the people that are contributing to the s
 | Name      | Affiliations| Webpage       |
 | --------- | ----------- | ------------- |
 | Dr. Jocelyn Belanger| New York University Abu Dhabi| [Contact](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/jocelyn-belanger.html)|
+| Dr. Pontus Leander| University of Groningen| [Contact](http://pontusleander.com/)|
 | Dr. Michelle vanDellen | University of Georgia| [Contact](https://psychology.uga.edu/directory/people/michelle-vandellen)|
+| Dr. Caspar van Lissa | University of Utrecht | [Contact](https://www.uu.nl/medewerkers/CJvanLissa) |
 |Mirra Milla |   Universitas Indonesia   |  [Contact](https://labpsipol.psikologi.ui.ac.id/)  |
 |Hamdi Muluk |   /    |  [Contact](https://labpsipol.psikologi.ui.ac.id/)  |
 |Alexandra Vazquez   |   Universidad Nacional de Educación a Distancia |    [Contact](https://alexandra-vazquez.webnode.es/)  |

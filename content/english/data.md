@@ -2,9 +2,6 @@
 title: Data Management
 ---
 
-
-# __If you have not filled out the survey yet, it would be great if you could do it before you read through this document. Follow this link to get to the survey: [Psycorona Survey](https://nyu.qualtrics.com/jfe/form/SV_6svo6J4NF7wE6tD).__
-
 In this file, you can find a full overview of how we handle your responses to ensure that your responses remain secure and well protected. In general, there are five main steps:
 
 1. Filling out the Baseline Survey
@@ -20,8 +17,8 @@ There are two questions you can decide to answer that are considered “directly
 ### A. Data Access
 There are only two data managers who are allowed to work with the raw data (i.e., data that links your email address and ZIP code to your survey responses): 
 
-* Jannis Kreienkamp (j.kreienkamp@rug.nl)
-* Maximilian Agostini (m.agostini@rug.nl)
+* [Jannis Kreienkamp](https://www.rug.nl/staff/j.kreienkamp/research) (j.kreienkamp@rug.nl)
+* [Maximilian Agostini](https://www.rug.nl/staff/m.agostini/) (m.agostini@rug.nl)
 
 ### B. Data Safety
 The two data managers, who have access to the raw data, are working from secured machines (e.g. all data is encrypted, password-protected, and remains on a local hard drive). The data is stored in an encrypted data storage facility and will only remain on the (encrypted) local hard drives of the data managers for the duration of data processing.
