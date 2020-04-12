@@ -52,6 +52,9 @@ params:
   heroClientlogos:
     - logo: university-nyu
       url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/jocelyn-belanger.html
+    - logo: university-groningen
+      url: https://www.rug.nl/staff/n.p.leander/research
+
     
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
@@ -73,7 +76,7 @@ params:
   contactInvitation1: Reach out to us
   contactInvitation2: We'd love to hear from you
   contactButton: Contact Us
-  contactEmail: psycorona@gmail.com
+  contactEmail: psycorona@rug.nl 
 
   footer:
     #Some arbitray key is necessary for underlying template to render
