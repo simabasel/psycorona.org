@@ -2,8 +2,6 @@
 title: Frequently Asked Questions
 ---
 
-# Click on a question to show the answer:
-
 <div>
     <script>let showHide = function(id){elem = document.getElementById(id), (elem.style.display == "block" ? elem.style.display = "none" : elem.style.display = "block")}</script>
     <div class="faqItem">
