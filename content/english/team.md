@@ -2,7 +2,7 @@
 title: Team
 ---
 
-The table below includes a list of all the people that are contributing to the study
+The table below includes a partial list of the people that are contributing to the study
 
 | Name      | Affiliations| Webpage       |
 | --------- | ----------- | ------------- |
