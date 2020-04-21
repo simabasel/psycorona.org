@@ -56,3 +56,9 @@ The table below includes a partial list of the people that are contributing to t
 |Cokorda Bagus Jaya Lesmana  |   Udayana University   | [Contact](https://www.researchgate.net/profile/Cokorda_Lesmana)  |
 |Gavan Fitzsimons    |   Duke University    |   [Contact](https://faculty.fuqua.duke.edu/~gavan/bio/GJF_Duke_site/Home.html)  |
 |Andre Lajst |   University of Cordoba   |    |
+| Kiều Thị | Ho Chi Minh University| |
+| Thanh Trà | Ho Chi Minh University| |
+
+
+
+
