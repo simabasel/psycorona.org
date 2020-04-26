@@ -34,6 +34,7 @@ The table below includes a partial list of the people that are contributing to t
 |Maximilian Agostini |   University of Groningen |  [Contact](https://www.rug.nl/staff/m.agostini/)  |
 |B. Gutzkow  |   University of Groningen  | [Contact](https://www.rug.nl/staff/b.gutzkow)  |
 |Yasin Koc   |   University of Groningen   |    [Contact](https://www.rug.nl/staff/y.koc/)  |
+| Dr. Heyla Al Selim | King Saud University |    [Contact](https://www.linkedin.com/in/heyla-al-selim-893462185/?originalSubdomain=sa)  |
 |J.J Olivas-Osuna   |    LSE / UNED    | [Contact](https://www.researchgate.net/profile/Jose_Javier_Olivas_Osuna)  |
 |Jonas Rees  |   University of Bielefeld  | [Contact](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=26385901&lang=de)  |
 |Sabahat Cigdem Bagci    |   Sabancı University |   [Contact](http://myweb.sabanciuniv.edu/cigdembagci/)  |
@@ -57,6 +58,5 @@ The table below includes a partial list of the people that are contributing to t
 |Gavan Fitzsimons    |   Duke University    |   [Contact](https://faculty.fuqua.duke.edu/~gavan/bio/GJF_Duke_site/Home.html)  |
 |Andre Lajst |   University of Cordoba   |    |
 | Kiều Thị Thanh Trà | Ho Chi Minh University| |
-
 
 
